@@ -48,7 +48,6 @@ pip install -r requirements.txt
 Gemini_API_KEY=your_genini_api_key_here
 ```
 
-** Do NOT commit this file to GitHub. It contains sensitive data.**
 
 ---
 
